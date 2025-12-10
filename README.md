@@ -7,7 +7,7 @@ by Yulin Chen, Leo Zhuang, Wendy Wang, Grace Wang
 ![Result 2](framework_diagram/result2.png)
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/MaoliYulin/11785-Project/blob/main/colab/lama_refinement_proposed_method.ipynb">
+  <a href="https://colab.research.google.com/github/MaoliYulin/11785_Project/blob/main/colab/lama_refinement_proposed_method.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
   <br>
