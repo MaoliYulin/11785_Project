@@ -19,7 +19,7 @@ by Yulin Chen, Leo Zhuang, Wendy Wang, Grace Wang
 
 # Colab Run (Highly Recommend)
 
-Colab file is in /11785-Project/colab/
+Colab file is in /11785_Project/colab/
 
 Directly run all cells
 
@@ -102,6 +102,6 @@ On the host machine:
 
     python3 bin/predict.py model.path=$(pwd)/big-lama indir=$(pwd)/LaMa_test_images outdir=$(pwd)/output
 
-if you want to change the Proposed refinement model, adjust hyperparameter in /11785-Project/configs/prediction/default.yaml
+if you want to change the Proposed refinement model, adjust hyperparameter in /11785_Project/configs/prediction/default.yaml
 
-The Proposed refinement code file is in /11785-Project/saicinpainting/evaluation/refinement.py
+The Proposed refinement code file is in /11785_Project/saicinpainting/evaluation/refinement.py
