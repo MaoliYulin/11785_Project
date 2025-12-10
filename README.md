@@ -101,6 +101,6 @@ On the host machine:
 
     python3 bin/predict.py model.path=$(pwd)/big-lama indir=$(pwd)/LaMa_test_images outdir=$(pwd)/output
 
-if you want to change the refinement model, adjust hyperparameter in /11785-Project/configs/prediction/default.yaml
+if you want to change the Proposed refinement model, adjust hyperparameter in /11785-Project/configs/prediction/default.yaml
 
-The refinement code file is in /11785-Project/saicinpainting/evaluation/refinement.py
+The Proposed refinement code file is in /11785-Project/saicinpainting/evaluation/refinement.py
