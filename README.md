@@ -57,7 +57,7 @@ Clone the repo:
 
 Run
 ```
-cd 11785-Project
+cd 11785_Project
 export TORCH_HOME=$(pwd) && export PYTHONPATH=$(pwd)
 ```
 
